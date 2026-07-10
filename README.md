@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Sneha Shah 👋</h1>
 
 <p align="center">
-  Software Engineering Student | Cloud & Backend Developer | Technology Enthusiast
+ Building backend systems and cloud-based solutions through practical projects.
 </p>
 
 <p align="center">
@@ -15,85 +15,98 @@
 </p>
 
 ---
-
 ## 👩‍💻 About Me
 
-I am a Software Engineering student passionate about software development, cloud computing, and building practical technology solutions.
+Software Engineering student focused on backend development, cloud computing, and DevOps.
 
-I enjoy exploring new technologies, solving real-world problems, and developing projects that strengthen my understanding of software engineering practices.
-
-Currently, I am focusing on backend development, cloud technologies, DevOps practices, and improving my skills through hands-on projects.
+I build REST APIs, deploy applications on AWS, and explore scalable software solutions through hands-on projects.
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,fastapi,docker,aws,linux,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,js,html,css,docker,aws,linux,git,github,vscode"/>
 </p>
+<table>
+<tr>
 
-### Programming Languages
+<td width="50%">
 
-* Python
-* C
-* C++
-* JavaScript
+### 💻 Programming Languages
 
-### Web Development
+- Python
+- JavaScript
+- C
+- C++
 
-* HTML
-* CSS
-* JavaScript
-* REST APIs
-* FastAPI
+</td>
 
-### Cloud & DevOps
+<td width="50%">
 
-* AWS Cloud Services
-* AWS EC2
-* Docker
-* Nginx
-* Linux
-* SSL Configuration
+### 🌐 Backend & Web Development
 
-### Tools
+- FastAPI
+- REST APIs
+- HTML
+- CSS
 
-* Git
-* GitHub
-* VS Code
+</td>
+</tr>
 
+<tr>
+<td width="50%">
+
+### ☁️ Cloud & DevOps
+
+- AWS (EC2)
+- Docker
+- Nginx
+- Linux
+- SSL Configuration
+
+</td>
+
+<td width="50%">
+
+### 🧰 Tools & Platforms
+
+- Git
+- GitHub
+- VS Code
+
+</td>
+</tr>
+</table>
 ---
 
-## ☁️ Cloud & Development Experience
+## ☁️ Cloud & Backend Experience
 
-Through academic projects and practical implementations, I have gained experience in:
+Through academic projects and hands-on development, I have worked with:
 
-* Deploying applications on AWS cloud environments
-* Building REST APIs using FastAPI
-* Containerizing applications using Docker
-* Hosting web applications using Nginx
-* Configuring Linux-based servers
-* Managing source code with Git and GitHub
-* Understanding software deployment workflows
-
----
-
+- Deploying applications on AWS cloud platforms
+- Developing REST APIs using FastAPI
+- Containerizing applications with Docker
+- Configuring and hosting web servers using Nginx
+- Working with Linux-based server environments
+- Using Git and GitHub for version control and collaboration
+- Exploring modern software deployment workflows
+  
 # 🚀 Featured Projects
 
-## ☁️ Cloud Application Deployment Project
+## ☁️ Cloud Application Deployment
 
-**Technologies:**
-Python | FastAPI | Docker | AWS EC2 | Nginx | Linux
+A backend application deployed using modern cloud and DevOps practices.
 
-* Developed REST APIs using FastAPI
-* Created containerized applications using Docker
-* Deployed applications on AWS EC2 instances
-* Configured Nginx as a web server
-* Managed cloud-based deployment workflows
+### Tech:
+Python | FastAPI | Docker | AWS EC2 | Nginx
 
-🔗 Repository: Add your project repository link here
+### Highlights:
+✓ Built REST APIs  
+✓ Containerized using Docker  
+✓ Deployed on AWS EC2  
+✓ Configured Nginx reverse proxy
 
----
 # 🏆 Certifications & Achievements
 
 ## AWS Academy Cloud Foundations
@@ -117,17 +130,12 @@ Successfully completed AWS Academy Cloud Foundations certification.
 </p>
 
 ---
+## 🌱 Currently Exploring
 
-# 📚 Currently Learning
-
-* Cloud Computing
-* Full-Stack Development
-* DevOps Fundamentals
-* Software Engineering Practices
-* System Design Concepts
-
+- Cloud deployment workflows
+- Backend architecture
+- DevOps automation
 ---
-
 # 🎯 Goals
 
 My goal is to continuously improve my technical skills, contribute to meaningful projects, and build software solutions that create real-world impact.
